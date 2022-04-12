@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/************  login & register **************/
+
+.auth-page-layer {
+  background-image: linear-gradient(to right, #00008b 0%, #0000cd 19%, #1e90ff 60%, #87ceeb 100%);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.card {
+  border:16px solid white
+}
